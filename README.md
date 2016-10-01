@@ -1,0 +1,1 @@
+This is backtesting system created for analysing different algorithmic trading strategies.
